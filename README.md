@@ -239,6 +239,13 @@ Look for the <img alt="Static Badge" src="https://img.shields.io/badge/Free_Vers
 <br>
 <br>
 
+<div align="center">
+    <a href="https://escape.tech/" target="_blank">
+        <img src="https://raw.githubusercontent.com/0xtavian/awesome-attack-surface-monitoring/main/screenshots/escape.png" style="display: inline-block; vertical-align: middle;"/>
+    </a>
+</div>
+<br>
+<br>
 
 <div align="center">
     <a href="https://www.mandiant.com/advantage/attack-surface-management" target="_blank">
